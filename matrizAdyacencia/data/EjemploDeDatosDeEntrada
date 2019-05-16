@@ -1,0 +1,16 @@
+################ Vectorial, Probabilistico ###############
+
+¿ Que atletas estan en las olimpiadas ?
+¿ Las olimpiadas son un deporte del mundo ?
+¿ El atletismo tiene atletas del mundo ?
+¿ Los records del atletismo son de lanzamientos ?
+¿ Los saltos son de los records del atletismo ?
+
+
+################# Boolean ##################
+
+(atletismo and olimpiadas)
+(olimpiadas or (atletas and deporte))
+(mundo or (records or publico))
+(publico or lanzamientos)
+((carreras or atletas) and mundo)
